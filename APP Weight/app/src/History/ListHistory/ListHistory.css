@@ -1,0 +1,24 @@
+.ListHistory{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.spanHistory{
+display: block;
+height: 20px;
+    margin: 0;
+    height: 15px;
+    font-size: 14px;
+}
+.ulListHistory{
+    margin: 0;
+    height: 20px;
+    padding: 0;
+    border: 1px solid rgb(177, 174, 174);
+}
+.centre{
+    font-size: 8px;
+    left: auto;
+    display: block;
+    /* padding-right: 30px; */
+}

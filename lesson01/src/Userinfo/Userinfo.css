@@ -1,0 +1,11 @@
+.Userinfo{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 0.45rem;
+}
+.imgInfo{
+    display: block;
+    width: 100px;
+    height: 100px;
+   
+}

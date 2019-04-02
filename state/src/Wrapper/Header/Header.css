@@ -1,0 +1,10 @@
+.header {
+    padding: 1rem;
+    background-color: #fff;
+    margin-bottom: 1rem;
+}
+.cart {
+    font-weight: 700;
+    text-align: right;
+    cursor: pointer;
+}

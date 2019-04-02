@@ -1,0 +1,23 @@
+.header{
+    height: 27px;
+    background-color: rgb(43, 233, 69);
+    display: flex;
+    justify-content: space-between;
+}
+span{
+display: block;
+padding: 1px;
+cursor: pointer;
+}
+
+.foto-start{
+    content: "\270E";
+}
+.foto-logo{
+    content: "\272A";
+}
+.img-menu{
+width: 15px;
+height: 15px;
+content: "\27A2";
+}

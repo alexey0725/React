@@ -1,0 +1,26 @@
+.modelHeader{
+    height: 27px;
+    background-color: rgb(43, 233, 69);
+    display: flex;
+    justify-content: flex-start;
+}
+.menuHeader, .save {
+display: block;
+
+} 
+
+.menuHeader{
+    content: "\2637";
+    cursor: pointer;
+    width: 15px;
+    color: #fff;
+    padding-left: 2px;
+
+}
+.save{
+    color: #fff;
+    font-weight: 500;
+    width: 50%;
+    padding-left: 5px;
+    padding-top: 3px;
+}

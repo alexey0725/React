@@ -1,0 +1,35 @@
+.wrapper{  
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+}
+.stat{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;;
+}
+.weight{
+border: 1px solid rgb(212, 210, 210);
+flex-basis: 45%;
+height: 70px;
+margin-left: 10%;
+text-align: center;
+}
+.text1, .num2, .numSpan1{
+font-size: 7px;
+}
+.num1, .num2{
+    display: flex;
+    text-align: center;
+}
+.numGreen{
+ font-size: 22px;
+ color: green;
+ font-weight: 600;
+}
+.index{
+width: 90%;
+height: 130px;
+margin: 0 auto;
+margin-top: 10%;
+}

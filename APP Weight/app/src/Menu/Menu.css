@@ -1,0 +1,25 @@
+.menu{
+margin: 0;
+padding: 0;
+display: flex;
+height: 20px;
+list-style: none;
+justify-content: space-around;
+background-color: rgb(228, 226, 226);
+/* border: 1px solid #000; */
+
+}
+.menu-list{
+    width: 33%;
+    text-align: center;
+    background-color: rgb(228, 226, 226);
+}
+/* .menu-list:hover{
+    border: 1px solid rgb(175, 171, 171);
+
+} */
+.navlink{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 11px;
+}
